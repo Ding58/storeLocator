@@ -18,4 +18,4 @@ Directions
 Reference documentation
 
 For detailed documentation on the library, including classes, events and sample usage, please see the
-<a herf="https://developers.google.com/maps/documentation/javascript/mysql-to-maps?csw=1"> reference documentatioa
+<a href="https://developers.google.com/maps/documentation/javascript/mysql-to-maps?csw=1"> reference documentation </a>
